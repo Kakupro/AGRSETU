@@ -1,0 +1,7 @@
+dataset/
+.venv/
+__pycache__/
+*.h5
+*.txt
+.git
+temp_repo_grains/
